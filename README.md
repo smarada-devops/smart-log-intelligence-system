@@ -1,1 +1,0 @@
-# smart-log-intelligence-system
