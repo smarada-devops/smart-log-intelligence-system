@@ -1,0 +1,5 @@
+2025-09-20 12:00:00 INFO Application started
+2025-09-20 12:05:12 WARNING Low memory
+2025-09-20 12:10:45 ERROR Disk not found
+2025-09-20 12:15:30 CRITICAL Database connection lost
+2025-09-20 12:20:10 INFO Application running
